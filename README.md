@@ -1,4 +1,4 @@
-Hi 👋 My name is Ilya Ushenin
+Hi 👋 My name is Ilya
 =============================
 
 I am writing applications in Kotlin for Android devices.
