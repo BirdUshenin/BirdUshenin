@@ -2,9 +2,6 @@ Hi 👋 My name is Ilya
 =============================
 
 I am writing applications in Kotlin for Android devices.
---------------------------------------------------------
-
-* 🌍  I'm based in Russia
 
 ### Skills
 
