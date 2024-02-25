@@ -10,8 +10,8 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Work
-• Aston (ex. Andersen) | sep 2023 - feb 2024
-• CoolClever Lab | feb 2024 to present
+<p> • Aston (ex. Andersen) | sep 2023 - feb 2024 </p>
+<p> • CoolClever Lab | feb 2024 to present </p>
 
 ### Socials
 
