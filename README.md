@@ -11,7 +11,7 @@ I am writing applications in Kotlin for Android devices.
 
 ### Work
 <p> • Aston (ex. Andersen) | sep 2023 - feb 2024 </p>
-<p> • Alfa Bank Project feb 2024
+<p> • Alfa Bank Project | feb 2024
 <p> • CoolClever Lab | feb 2024 to present </p>
 
 ### Socials
