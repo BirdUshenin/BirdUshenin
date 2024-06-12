@@ -10,8 +10,8 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Education
-<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="Aston" /></p>
-<p> • Lobachevsky University (UNN), Applied Computer Science (master's degrees) | sep 2022 - jul 2024</p>
+<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
+<p> • Lobachevsky University (UNN), Applied Computer Science (master's degrees) | sep 2022 - jul 2024 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
 
 ### Work
 <p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://media.licdn.com/dms/image/D4E0BAQGIKolChCKwBg/company-logo_200_200/0/1694693830846/astondevs_logo?e=2147483647&v=beta&t=yqfDvdghyXeYkM3x9b-WwDR30aSOqKFeMkOsfHB4BEM" width="16" height="16" alt="Aston" /></p>
