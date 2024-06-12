@@ -10,7 +10,7 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Work
-<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></p>
+<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="16" height="16" alt="Kotlin" /></p>
 <p> • Alfa Bank Project | feb 2024
 <p> • CoolClever Lab | feb 2024 to present </p>
 
