@@ -14,7 +14,7 @@ I am writing applications in Kotlin for Android devices.
 <p> • Lobachevsky University (UNN), Applied Computer Science (master's degrees) | sep 2022 - jul 2024 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
 
 ### Work
-<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://media.licdn.com/dms/image/D4E0BAQGIKolChCKwBg/company-logo_200_200/0/1694693830846/astondevs_logo?e=2147483647&v=beta&t=yqfDvdghyXeYkM3x9b-WwDR30aSOqKFeMkOsfHB4BEM" width="16" height="16" alt="Aston" /></p>
+<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://media.licdn.com/dms/image/D4E0BAQGIKolChCKwBg/company-logo_200_200/0/1694693830846/astondevs_logo?e=2147483647&v=beta&t=yqfDvdghyXeYkM3x9b-WwDR30aSOqKFeMkOsfHB4BEM" width="16" height="16" alt="Aston" /> (https://www.rustore.ru/catalog/app/com.example.mchs)</p>
 <p> • MCHS Project | jan 2024  <img src="https://alllogos.ru/images/logotip-mchs.jpg" width="16" height="16" alt="MCHS" /> </p>
 <p> • Alfa Bank Project | feb 2024  <img src="https://centergoroda.com/upload/iblock/3e6/xl5xrnhm0qpjfkgf9ekv60k7h7ndkgou/footer_alfa_logo_1025x1025_common_19_01_2021.png" width="16" height="16" alt="AlfaBank" /> </p>
 <p> • CoolClever Lab | feb 2024 to present <img src="https://play-lh.googleusercontent.com/5eL8LRI3Lt_HiM0RqdKveJAoW7UnOd6IqpLakuhAJDRoMmkQbld-_QksQM3iwT8qQCk" width="16" height="16" alt="CoolClever" /> </p>
