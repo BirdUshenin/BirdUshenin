@@ -10,8 +10,8 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Work
-<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://media.licdn.com/dms/image/D4E0BAQGIKolChCKwBg/company-logo_200_200/0/1694693830846/astondevs_logo?e=2147483647&v=beta&t=yqfDvdghyXeYkM3x9b-WwDR30aSOqKFeMkOsfHB4BEM" width="16" height="18" alt="Kotlin" /></p>
-<p> • Alfa Bank Project | feb 2024
+<p> • Aston (ex. Andersen) | sep 2023 - feb 2024  <img src="https://media.licdn.com/dms/image/D4E0BAQGIKolChCKwBg/company-logo_200_200/0/1694693830846/astondevs_logo?e=2147483647&v=beta&t=yqfDvdghyXeYkM3x9b-WwDR30aSOqKFeMkOsfHB4BEM" width="16" height="16" alt="Aston" /></p>
+<p> • Alfa Bank Project | feb 2024  <img src="https://www.sostav.ru/images/news/2019/05/08/wwh5l7ed.png" width="16" height="16" alt="Aston" /> </p>
 <p> • CoolClever Lab | feb 2024 to present </p>
 
 ### Socials
