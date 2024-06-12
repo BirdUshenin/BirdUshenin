@@ -10,7 +10,7 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Education
-<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022</p>
+<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022 <img src="https://ggscore.com/media/logo/t49288.png?19" width="16" height="16" alt="Aston" /></p>
 <p> • Lobachevsky University (UNN), Applied Computer Science (master's degrees) | sep 2022 - jul 2024</p>
 
 ### Work
