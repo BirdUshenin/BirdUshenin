@@ -20,7 +20,7 @@ I am writing applications in Kotlin for Android devices.
 <p> • CoolClever Lab | feb 2024 to present <img src="https://play-lh.googleusercontent.com/5eL8LRI3Lt_HiM0RqdKveJAoW7UnOd6IqpLakuhAJDRoMmkQbld-_QksQM3iwT8qQCk" width="16" height="16" alt="CoolClever" />  (https://play.google.com/store/apps/details?id=com.coolclever.app)</p>
 
 ### Pet-Projects
-<p> • KitConn VPN | oct 2022 - feb 2023  <img src="https://cdn4.cdn-telegram.org/file/M7rvBtEWjHK6StvpkcFJ9qGUdotZP-mF-2WI3aIscIUOeHhTr4rd_c-_VWYtNTjYtR2t_jSMdVt-eaaJZ4n47ABtmc0z7CAwgvRVRInZs7dCCsE78uUOyEp3_AbCYpaI0eZdSXhughdjm7daSUdWD5WHdnXwvrs1C45Gmenu9slsUcJ79cFOOb9-ynhzJ06M6pFEq5oiJyolwQJR0g5QgWOgzpNxg38hMayHvwSX8wCCODu7AeJ3UNlKRx2ogO7tTrBar-y4vNcEgAplkJX0U71JNSvILnOS_nBomSeHo98LvuCdA4kSTro7vk4J38qBDd-kfa8YX2Af-KaqpH5h2g.jpg" width="16" height="16" alt="KitConn" />  (https://t.me/KitConnVPN)</p>
+<p> • KitConn VPN | oct 2022 - feb 2023 (https://t.me/KitConnVPN)</p>
 
 ### Socials
 
