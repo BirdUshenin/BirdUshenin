@@ -10,8 +10,8 @@ I am writing applications in Kotlin for Android devices.
 </p>
 
 ### Education
-<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
 <p> • Lobachevsky University (UNN), Applied Computer Science (master's degrees) | sep 2022 - jul 2024 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
+<p> • Lobachevsky University (UNN), Applied Computer Science (bachelor's degree) | sep 2018 - jul 2022 <img src="https://www.unn.ru/site/images/brand/unn_logo_rus1.png" width="16" height="16" alt="UNN" /></p>
 
 ### Work
 
